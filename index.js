@@ -62,7 +62,8 @@ var supportedTargets = [
   {runtime: 'electron', target: '1.5.0', abi: '51', lts: false},
   {runtime: 'electron', target: '1.6.0', abi: '53', lts: false},
   {runtime: 'electron', target: '1.7.0', abi: '54', lts: false},
-  {runtime: 'electron', target: '1.8.0', abi: '57', lts: false}
+  {runtime: 'electron', target: '1.8.0', abi: '57', lts: false},
+  {runtime: 'electron', target: '2.0.0', abi: '57', lts: false}
 ]
 
 var additionalTargets = [
